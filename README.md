@@ -2,11 +2,11 @@
 
 :cloud: Repositório de recursos de apoio ao aluno.
 
-TP1 - Docente: Marcelo
+TP1 - Docente: [Marcelo Antunes Fernandes](mailto:fernandesmarcelo@estg.ipvc.pt)
 
 PL1 - Docente: [João Vieira Palma](mailto:j.vieira@estg.ipvc.pt)
 
-PL2 - Docente: Luís Alves
+PL2 - Docente: [Luís Alves](mailto:lcarlosalves@estg.ipvc.pt)
 
 #### Semana 1 - 21-02
 
@@ -50,7 +50,7 @@ PL2 - Docente: Luís Alves
 - &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
 - &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
 
-#### Semana 8 - 11-04
+#### Semana 8 - 11-04 ( Férias Pascoa )
 
 - &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
 - &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
@@ -75,6 +75,36 @@ PL2 - Docente: Luís Alves
 - &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
 
 #### Semana 12 - 09-05
+
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+
+#### Semana 13 - 16-05 ( Semana Académica )
+
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+
+#### Semana 14 - 23-05
+
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+
+#### Semana 15 - 30-05
+
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+
+#### Semana 16 - 06-06
+
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+
+#### Semana 17 - 13-06
 
 - &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
 - &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
