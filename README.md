@@ -3,7 +3,9 @@
 :cloud: Repositório de recursos de apoio ao aluno.
 
 TP1 - Docente: Marcelo
-PL1 - Docente: João Vieira Palma
+
+PL1 - Docente: [João Vieira Palma](mailto:j.vieira@estg.ipvc.pt)
+
 PL2 - Docente: Luís Alves
 
 #### Semana 1 - 21-02
