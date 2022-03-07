@@ -1,0 +1,31 @@
+/* style de uma class */
+.size15 {
+  font-size: 15px;
+  font-weight: 200;
+}
+.textAzul {
+  color: #0000aa;
+}
+
+/* style de atribuido a um elemento atraves do id */
+#redElement {
+  color: #ff0000;
+}
+
+/* style de atribuido a um elemento diretamente */
+h4 {
+  color: gray;
+}
+
+/* css aplicado a elemento que contenha ambas as classes */
+.size15.textAzul {
+  color: #1b9fd3;
+  font-size: 20px;
+}
+
+/* css aplicado a elemento todos elementos "size15" que sejam 
+filhos de um elemento com a classe "textAzul" */
+.textAzul .size15 {
+  color: #1bd39c8f;
+  font-size: 20px;
+}
