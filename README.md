@@ -24,7 +24,7 @@ PL2 - Docente: [Luís Alves](mailto:lcarlosalves@estg.ipvc.pt)
 
 - &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :heavy_check_mark:
 - &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :heavy_check_mark:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 4 - 14-03
 
