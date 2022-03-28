@@ -17,26 +17,26 @@ PL2 - Docente: [Luís Alves](mailto:lcarlosalves@estg.ipvc.pt)
 #### Semana 2 - 28-02 (Carnaval)
 
 - &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :heavy_check_mark:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :heavy_check_mark: Intro + Exercicios html e css
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 3 - 07-03
 
-- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 4 - 14-03
 
-- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 5 - 21-03
 
-- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 6 - 28-03
 
@@ -128,5 +128,11 @@ unchecked- :white_large_square:
 ### João Vieira Palma
 
 :mailbox_with_mail: Email: j.vieira@estg.ipvc.pt
+
+:school: [IPVC](http://www.ipvc.pt/) - [ESTG](http://portal.ipvc.pt/portal/page/portal/estg) - 2021/2022
+
+### Luís Alves
+
+:mailbox_with_mail: Email: lcarlosalves@estg.ipvc.pt
 
 :school: [IPVC](http://www.ipvc.pt/) - [ESTG](http://portal.ipvc.pt/portal/page/portal/estg) - 2021/2022
