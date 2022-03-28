@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>Euro Milhões</title>
+  </head>
+  <body>
+    <h1>Euro Milhoes</h1>
+    <!-- tabela com body vazio -->
+    <div id="content">
+      <table id="table">
+        <thead>
+          <tr>
+            <th>Chave</th>
+            <th>Chave Ordenada</th>
+            <th>Estrelas</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <!-- Actions para adicionar linhas e limpar a tabela -->
+    <div style="text-align: center">
+      <button id="clearAll">limpar Chaves</button>
+      <button id="addKey">Gerar Chave</button>
+    </div>
+
+    <!-- Importar ficheiro JS externo -->
+    <script src="./main.js"></script>
+
+    <script>
+      const var1 = "olá"; // string / char[] / char
+      const var2 = 123; // int double float
+      const var3 = true; // boolean -> true or false
+      const var4 = null;
+      const var5 = undefined;
+      const var6 = [1, "", true, var1];
+      const var7 = {
+        key: "value",
+        numero: 12345,
+        nome: "josé manuel",
+        email: "qqcoisa@ipvc.pt",
+      };
+
+      // criar variaveis para termos acesso aos elementos
+      const clearAll = document.getElementById("clearAll");
+      const addKey = document.getElementById("addKey");
+
+      addKey.onclick = geraChave;
+    </script>
+  </body>
+</html>
