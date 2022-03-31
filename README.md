@@ -28,15 +28,15 @@ PL2 - Docente: [Luís Alves](mailto:lcarlosalves@estg.ipvc.pt)
 
 #### Semana 4 - 14-03
 
-- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 5 - 21-03
 
-- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :heavy_check_mark:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 6 - 28-03
 
