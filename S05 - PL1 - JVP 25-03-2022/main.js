@@ -38,18 +38,37 @@ const ordenaChave = (array) => {
   // '1 - 2 - 3 - 4 - 5'
 };
 
+// function adicionarChaveHTML (chave) { // JS 5
+
+// }
+
+// JS 6 +
+const adicionarChaveHTML = (chave) => {
+  console.log(chave);
+  const TableBody = myTable.tBodies[0];
+  // criar um novo elemento, que é a linha para a tabela
+  const linha = document.createElement("tr"); // TR -> Table Row
+  // escrver o html que vai para dentro dessa linha
+  linha.innerHTML = `
+	<td>
+		${chave.numeros.join(" - ")} ** ${chave.estrelas.join(" - ")}
+	</td>
+	<td> numeros ordenados </td>
+	<td> estrelas ordenadas </td>
+  `;
+  // adicionar a linha ao body da tabela
+  TableBody.appendChild(linha);
+};
+
 const geraChave = () => {
   // estado inicial da chave vazia
   const chaveGerada = {
     numeros: [],
     estrelas: [],
   };
-
   // gerar a numeros da chave
   chaveGerada.numeros = extrairNumeros(5, 1, 50);
-
   // gerar a estrelas da chave
   chaveGerada.estrelas = extrairNumeros(2, 1, 12);
-
-  console.log(chaveGerada);
+  adicionarChaveHTML(chaveGerada);
 };

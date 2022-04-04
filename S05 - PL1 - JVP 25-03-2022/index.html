@@ -48,8 +48,13 @@
       // criar variaveis para termos acesso aos elementos
       const clearAll = document.getElementById("clearAll");
       const addKey = document.getElementById("addKey");
+      const myTable = document.getElementById("table");
 
       addKey.onclick = geraChave;
+
+      clearAll.onclick = () => {
+        myTable.tBodies[0].innerHTML = "";
+      };
     </script>
   </body>
 </html>
