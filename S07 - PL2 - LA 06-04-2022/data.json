@@ -1,0 +1,26 @@
+{
+    "nome": "Joaquim Sousa",
+    "data_nascimento": "25/03/1999",
+    "localidade": "Viana do Castelo",
+    "habilit_academicas": [
+        {
+            "grau": "Ensino Superior",
+            "instituicao": "IPVC - ESTG",
+            "tipo_curso": "Licenciatura",
+            "nome_curso": "ERSC",
+            "ano_inicio": 2017,
+            "ano_fim": 2020
+        },
+        {
+            "grau": "Ensino Secundário",
+            "instituicao": "Escola Secundária de Monserrate",
+            "tipo_curso": "Científico-Humanístico",
+            "nome_curso": "Ciências e Tecnologias",
+            "ano_inicio": 2014,
+            "ano_fim": 2017
+        }
+    ],
+    "habilit_profissionais": [ "Servente de Mesa", "Recepcionista"
+    ],
+    "projetos": []
+}

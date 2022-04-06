@@ -42,19 +42,19 @@ PL2 - Docente: [Luís Alves](mailto:lcarlosalves@estg.ipvc.pt)
 
 - &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
 - &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 7 - 04-04
 
 - &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
 - &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :heavy_check_mark:
 
 #### Semana 8 - 11-04 ( Férias Pascoa )
 
-- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :x:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :x:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :x:
 
 #### Semana 9 - 18-04
 
@@ -82,9 +82,9 @@ PL2 - Docente: [Luís Alves](mailto:lcarlosalves@estg.ipvc.pt)
 
 #### Semana 13 - 16-05 ( Semana Académica )
 
-- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :white_large_square:
-- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :white_large_square:
+- &nbsp;&nbsp;&nbsp;&nbsp;TP 1 - :x:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 1 - :x:
+- &nbsp;&nbsp;&nbsp;&nbsp;PL 2 - :x:
 
 #### Semana 14 - 23-05
 
